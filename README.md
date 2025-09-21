@@ -6,21 +6,11 @@ To use it, simply replace the placeholder text with your own information.
 -->
 
 # 👋 Hello, I'm Arieldhipta Tarliman
-### Associate Member Data Analyst | Ex Associate Member Database Administrator | Data Science Student at BINUS UNIVERSITY]
+---
+**Associate Member Data Analyst | Ex Associate Member Database Administrator | Data Science Student at BINUS UNIVERSITY]
+**
 
 🎓 I am a year 23rd, 5th-semester undergraduate at BINUS University, specializing in Data Science. My focus is on leveraging data to build intelligent, scalable, and user-centric solutions. I am actively seeking internships and collaborative projects in the data science and AI space.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/arieldhipta-tarliman/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.kaggle.com/ariesldjopa" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-  </a>
-  <a href="mailto:arieltarliman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
 ### 🧠 About Me
 ---
