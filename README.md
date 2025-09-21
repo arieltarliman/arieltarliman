@@ -11,6 +11,7 @@ Associate Member Data Analyst | Ex Associate Member Database Administrator | Dat
 
 🎓 I am a year 23rd, 5th-semester undergraduate at BINUS University, specializing in Data Science. My focus is on leveraging data to build intelligent, scalable, and user-centric solutions. I am actively seeking internships and collaborative projects in the data science and AI space.
 
+
 ### 🧠 About Me
 ---
 I am driven by a passion for uncovering hidden patterns in data and transforming them into actionable insights. My journey in tech is a blend of analytical rigor from machine learning and creative problem-solving from my interest in design and development. I thrive in environments where I can continuously learn, innovate, and contribute to meaningful projects.
@@ -22,6 +23,7 @@ I am driven by a passion for uncovering hidden patterns in data and transforming
 💬 Ask me about anything related to Python, Data Visualization, or Neural Networks.
 
 ⚡ Fun fact: I'm great with Badminton🏸 
+
 
 ### 🛠️ My Technical Skillset
 ---
@@ -66,6 +68,7 @@ My expertise spans various domains, from core programming languages to specializ
 </tr>
 </table>
 
+
 ### 📫 Let's Connect!
 ---
 I'm always open to connecting with fellow students, developers, and professionals. Feel free to reach out!
@@ -80,7 +83,7 @@ Instagram: https://www.instagram.com/arieltarliman
 
 
 ### 📈 My GitHub Activity
-
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arieltarliman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
