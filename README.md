@@ -84,7 +84,6 @@ Instagram: https://www.instagram.com/arieltarliman
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arieltarliman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arieltarliman&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 "The important thing is not to stop questioning." - Albert Einstein
