@@ -23,6 +23,7 @@ To use it, simply replace the placeholder text with your own information.
 </p>
 
 ### 🧠 About Me
+---
 I am driven by a passion for uncovering hidden patterns in data and transforming them into actionable insights. My journey in tech is a blend of analytical rigor from machine learning and creative problem-solving from my interest in design and development. I thrive in environments where I can continuously learn, innovate, and contribute to meaningful projects.
 
 🌱 Currently exploring advanced topics in Deep Learning and Model Deployment.
@@ -34,6 +35,7 @@ I am driven by a passion for uncovering hidden patterns in data and transforming
 ⚡ Fun fact: I'm great with Badminton🏸 
 
 ### 🛠️ My Technical Skillset
+---
 My expertise spans various domains, from core programming languages to specialized data science libraries and tools.
 
 <table>
@@ -76,6 +78,7 @@ My expertise spans various domains, from core programming languages to specializ
 </table>
 
 ### 📫 Let's Connect!
+---
 I'm always open to connecting with fellow students, developers, and professionals. Feel free to reach out!
 
 Email: arieltarliman@gmail.com
