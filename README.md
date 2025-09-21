@@ -42,7 +42,7 @@ My expertise spans various domains, from core programming languages to specializ
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dflat%26logo%3Dmysql%26logoColor%3Dwhite" alt="SQL">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
 </p>
 <strong>Machine Learning & Deep Learning</strong>
@@ -78,9 +78,13 @@ My expertise spans various domains, from core programming languages to specializ
 I'm always open to connecting with fellow students, developers, and professionals. Feel free to reach out!
 
 Email: arieltarliman@gmail.com
+
 LinkedIn: www.linkedin.com/in/arieldhipta-tarliman
+
 Kaggle: https://www.kaggle.com/ariesldjopa
-Instagram: https://www.instagram.com/arieltarliman/
+
+Instagram: https://www.instagram.com/arieltarliman
+
 
 <details>
 <summary><b>📈 My GitHub Activity</b> (click to expand)</summary>
