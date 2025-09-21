@@ -79,19 +79,17 @@ Kaggle: https://www.kaggle.com/ariesldjopa
 Instagram: https://www.instagram.com/arieltarliman
 
 
-<details>
-<summary><b>📈 My GitHub Activity</b> (click to expand)</summary>
-<br>
+### 📈 My GitHub Activity
+
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Farieltarliman%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
-<br/>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Darieltarliman%26theme%3Dtokyonight" alt="GitHub Streak Stats" />
-<br/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Darieltarliman%26layout%3Dcompact%26langs_count%3D8%26theme%3Dtokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arieltarliman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arieltarliman&theme=tokyonight" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arieltarliman&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Darieltarliman%26theme%3Ddracula%26no-frame%3Dtrue%26row%3D1%26column%3D7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arieltarliman&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
-</details>
 
 "The important thing is not to stop questioning." - Albert Einstein
